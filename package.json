@@ -1,0 +1,12 @@
+{
+  "name": "antd-pro-qiankun-keepalive-tabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pnpm -C ./modules/main start & pnpm -C ./modules/app1 start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
