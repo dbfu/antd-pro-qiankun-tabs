@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "pnpm -C ./modules/main start & pnpm -C ./modules/app1 start"
+    "start": "pnpm -C ./modules/main start & pnpm -C ./modules/app1 start  & pnpm -C ./modules/app2 start"
   },
   "keywords": [],
   "author": "",

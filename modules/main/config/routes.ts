@@ -67,6 +67,21 @@ export default [
     path: '/app1/demo',
   },
   {
+    name: 'app2-index',
+    icon: 'table',
+    path: '/app2/',
+  },
+  {
+    name: 'app2-docs',
+    icon: 'table',
+    path: '/app2/docs',
+  },
+  {
+    name: 'app2-demo',
+    icon: 'table',
+    path: '/app2/demo',
+  },
+  {
     path: '/',
     redirect: '/app1/',
   },
